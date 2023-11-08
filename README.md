@@ -9,21 +9,21 @@
     - [Installation](/setup/installation)
 - [Contributing](/contributing)
   
-## <a href="/introduction"> Introduction </a>
+## <a ref="/introduction"> Introduction </a>
 <p style="text-align: justify">Welcome to the Digimon Project! This is a small web application that allows you to manage and explore information about Digimon creatures. The project is built using Spring Web, Spring JPA, Angular 13, and PostgreSQL 4, providing a modern and efficient platform to interact with Digimon data.</p>
 
-## <a href="/features"> Features </a>
+## <a ref="/features"> Features </a>
 - View a list of Digimon creatures
 - Add new Digimon entries
 
-## <a href="/technologies_used"> Technologies Used </a>
+## <a ref="/technologies_used"> Technologies Used </a>
 - **Spring Web**: Provides the backend framework for building RESTful web services.
 - **Spring JPA**: Offers support for database persistence and the Java Persistence API.
 - **Angular 13**:  A powerful front-end framework for creating dynamic and interactive web applications.
 - **PostgreSQL 4**: An open-source relational database management system.
 
-## <a href="/setup"> Setup </a>
-### <a href="/setup/prerequisites"> Prerequisites </a>
+## <a ref="/setup"> Setup </a>
+### <a ref="/setup/prerequisites"> Prerequisites </a>
 <p style="text-align: justify"> Before you can run the Digimon Project, you need to ensure that you have the following software installed on your system: </p>
 
 - Java Development Kit (JDK)
@@ -33,7 +33,7 @@
 - Gradle
 - Your favorite IDE (e.g., IntelliJ IDEA, Visual Studio Code)
 
-### <a href="/setup/installation"> Installation </a>
+### <a ref="/setup/installation"> Installation </a>
 1. Clone the repository: 
     ```bash 
     git clone https://github.com/xxxjahlilallenxxx/digimon-project.git 
@@ -65,5 +65,5 @@
 7. Access the application in your web browser:
    http://localhost:4200/
 
-## <a href="/contributing"> Contributing </a>
+## <a ref="/contributing"> Contributing </a>
 I welcome contributions to this project.
